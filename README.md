@@ -2,9 +2,11 @@
 
 ## Workshop materials
 
+To complete the Project notebook, open the link then click "File" in the toolbar at the top of the page and select "Save a copy on Drive" to make an editable copy on your own Drive.
+
 - [Slides](/pbhm_workshop/20260204_pbhm.pdf)
-- [Sentiment demo](https://colab.research.google.com/drive/1f4FwUJfVCrtlngBRKPrckQUS4mqaGwdG?usp=sharing)
-- [Project](https://colab.research.google.com/drive/1b9shTo-BQ2NCqOfTF9VGg-YKeN0Ow-1a?usp=sharing)
+- [Sentiment demo](https://colab.research.google.com/drive/1f4FwUJfVCrtlngBRKPrckQUS4mqaGwdG?usp=sharing): *demonstrating Hugging Face pipeline to do sentiment analysis on descriptions of the weather*
+- [Project](https://colab.research.google.com/drive/1b9shTo-BQ2NCqOfTF9VGg-YKeN0Ow-1a?usp=sharing): *practicing a few different techniques on an open dataset, including sentiment analysis and zero-shot classification*
 - [Project with some of the answers included](https://colab.research.google.com/drive/1pPi8o-upqxTMOfL309YRJJYn0Z75u3Zo?usp=sharing)
 
 
